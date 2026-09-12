@@ -2,98 +2,51 @@
 
 
 
-# [Project Name] 🎯
+# Veinanlyze 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Hercules
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Akshaya R Nair - Christ college of engineering
+- Member 2: Anupa Shaju -Christ College of Engineering
 
 ### Project Description
-[2-3 lines about what your project does]
+Detects the number of veins in a leaf.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+Manually counting leaf veins is time-consuming and prone to human error. VeinAnalyze automates vein detection and counting from a leaf image for faster, more consistent analysis.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+We use image processing + computer vision to detect the tiny veins in a leaf and automatically count them—basically, letting the computer do the boring counting for us! 🌿🤖
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Python 
+- Streamlit
+- OpenCV
+- VS Code
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+pip install streamlit
+pip install opencv-python
+pip install numpy
 
 # Run
-[commands]
+streamlit run appo.py
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+https://drive.google.com/file/d/1NDgHqZgf87RyLwIAmtq1lafODYkOXvFr/view?usp=drivesdk
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
-
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
-
-## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
-
----
 Made with ❤️ at TinkerHub Useless Projects 
 
 ![Static Badge](https://img.shields.io/badge/TinkerHub-24?color=%23000000&link=https%3A%2F%2Fwww.tinkerhub.org%2F)
